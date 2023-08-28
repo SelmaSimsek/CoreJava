@@ -1,6 +1,6 @@
-package variables;
+package P01variables;
 
-public class Variables02 {
+public class C01Variables02 {
     public static void main(String[] args) {
         //Ornek 9: Ogrenci ismi icin variable olusturup deger olarak Ali Can atayiniz.
 

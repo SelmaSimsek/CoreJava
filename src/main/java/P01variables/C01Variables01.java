@@ -1,6 +1,6 @@
-package variables;
+package P01variables;
 
-public class Variables01 {
+public class C01Variables01 {
     public static void main(String[] args) {
         // variable nasil olusturulur?
         // Data Type + Variable Name + Assigment Operator(atama Operatoru) + Variable degeri + noktali virgül;
