@@ -1,4 +1,4 @@
-package day05IfStatementsSwitchTernary;
+package p04_IfStatementsSwitchTernary;
 
 public class C06Switch {
     public static void main(String[] args) {

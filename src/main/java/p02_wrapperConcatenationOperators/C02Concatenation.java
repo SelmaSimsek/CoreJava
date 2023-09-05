@@ -1,4 +1,4 @@
-package P02wrapperConcatenationOperators;
+package p02_wrapperConcatenationOperators;
 
 public class C02Concatenation {
     public static void main(String[] args) {

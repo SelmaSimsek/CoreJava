@@ -1,4 +1,4 @@
-package day05IfStatementsSwitchTernary;
+package p04_IfStatementsSwitchTernary;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package day04ScannerIncrementDecrementIfStatements;
+package p03_ScannerIncrementDecrementIfStatements;
 
 public class C05IncrenmentDecrement {
     public static void main(String[] args) {

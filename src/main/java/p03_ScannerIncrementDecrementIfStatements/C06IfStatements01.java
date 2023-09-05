@@ -1,6 +1,4 @@
-package day04ScannerIncrementDecrementIfStatements;
-
-import java.beans.JavaBean;
+package p03_ScannerIncrementDecrementIfStatements;
 
 public class C06IfStatements01 {
     public static void main(String[] args) {

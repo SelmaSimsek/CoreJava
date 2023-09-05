@@ -1,4 +1,4 @@
-package day04ScannerIncrementDecrementIfStatements;
+package p03_ScannerIncrementDecrementIfStatements;
 
 import java.util.Scanner;
 

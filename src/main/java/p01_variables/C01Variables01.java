@@ -1,4 +1,4 @@
-package P01variables;
+package p01_variables;
 
 public class C01Variables01 {
     public static void main(String[] args) {
